@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * Some review before the final exam - Convert from decimal to binary
+ * Some review before the final exam - Some kinds of basic about Matrix
  * 
  * @author Nguyen Thanh Khoi Tran
  * @date 12/03/2023
