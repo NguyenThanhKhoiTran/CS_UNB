@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * Some review before the final exam - Convert to binary, octal and hexadecimal
+ * Some review before the final exam - Convert from decimal to binary
  * 
  * @author Nguyen Thanh Khoi Tran
  * @date 12/03/2023
