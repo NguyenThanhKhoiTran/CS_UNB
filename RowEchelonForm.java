@@ -1,10 +1,10 @@
 
 /**************************************************************************
- * 12 weeks of Java - Question 1
+ * Some reviews before the final exam - Row Echelon Form - Matrix
  * 
  * @author Nguyen Thanh Khoi Tran
  * @date 12-01-2023
- * @version Lab_V1
+ * @version Khoi_V2
  **************************************************************************/
 import java.util.Random;
 import java.util.Scanner;
